@@ -1,0 +1,19 @@
+@import "./sass/rest";
+@import "./sass/main";
+@import "./sass/service";
+@import "./sass/about";
+@import "./sass/questions";
+@import "./sass/meet";
+@import "./sass/footer";
+
+.layout {
+	overflow: hidden;
+	min-height: 100vh;
+	background: #010101;
+}
+
+.container {
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 0 30px;
+}
